@@ -4,7 +4,7 @@ I am a passionate IT student at STI College, driven by a curiosity for technolog
 ![<JeremyBarcos>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
-- 🔭 I'm currently pursuing my Bachelor's Degree in Information Technology at STI College.
+- 🔭 I'm currently pursuing my Bachelor's Degree in Information Technology at Xavier University Ateneo de Cagayan.
 - 🌱 I’m currently learning Full Stack Web Development and API creation.
 - 💬 Ask me about food
 - 📫 How to reach me: 20230028562@my.xu.edu.ph
@@ -18,7 +18,7 @@ I am a passionate IT student at STI College, driven by a curiosity for technolog
   - Building server-side applications with Django or Express.js.
 
 ## 🏆 Achievements
-- 🌟 Completed Git & GitHub Setup 2024
+- 🌟 Completed Git & GitHub Setup 2025
 - 🔭 I’m currently working on my final API project.
 
 Thanks for stopping by!
